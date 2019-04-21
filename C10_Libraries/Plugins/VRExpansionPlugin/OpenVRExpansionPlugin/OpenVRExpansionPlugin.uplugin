@@ -1,0 +1,40 @@
+{
+	"FileVersion": 3,
+	"Version": 4.22,
+	"VersionName": "4.22",
+	"FriendlyName": "OpenVRExpansionPlugin",
+	"Description": "Adds several new Steam/Open VR features & components to UE4",
+	"Category": "VRExpansion",
+	"CreatedBy": "Joshua (MordenTral) Statzer",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EnabledByDefault": true,
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "OpenVRExpansionPlugin",
+			"Type": "RunTime",
+			"LoadingPhase": "Default",
+			"WhitelistPlatforms" :
+			[
+				"Win64",
+				"Win32",
+				"Linux"
+			]
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "SteamVR",
+			"Enabled": true
+		},
+		{
+			"Name": "ProceduralMeshComponent",
+			"Enabled": true
+		}
+	]
+}

@@ -1,0 +1,25 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-VRExpansionPlugin.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Documents\Unreal Projects\VRExpPluginExp\Intermediate\Build\Win64\VRExpPluginExampleEditor\Development\UnrealEd\SharedPCH.UnrealEd.h.obj"
+"D:\Documents\Unreal Projects\VRExpPluginExp\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\VRExpansionPlugin\Module.VRExpansionPlugin.1_of_3.cpp.obj"
+"D:\Documents\Unreal Projects\VRExpPluginExp\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\VRExpansionPlugin\Module.VRExpansionPlugin.2_of_3.cpp.obj"
+"D:\Documents\Unreal Projects\VRExpPluginExp\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\VRExpansionPlugin\Module.VRExpansionPlugin.3_of_3.cpp.obj"
+"D:\Documents\Unreal Projects\VRExpPluginExp\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\VRExpansionPlugin\Module.VRExpansionPlugin.gen.1_of_10.cpp.obj"
+"D:\Documents\Unreal Projects\VRExpPluginExp\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\VRExpansionPlugin\Module.VRExpansionPlugin.gen.2_of_10.cpp.obj"
+"D:\Documents\Unreal Projects\VRExpPluginExp\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\VRExpansionPlugin\Module.VRExpansionPlugin.gen.3_of_10.cpp.obj"
+"D:\Documents\Unreal Projects\VRExpPluginExp\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\VRExpansionPlugin\Module.VRExpansionPlugin.gen.4_of_10.cpp.obj"
+"D:\Documents\Unreal Projects\VRExpPluginExp\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\VRExpansionPlugin\Module.VRExpansionPlugin.gen.5_of_10.cpp.obj"
+"D:\Documents\Unreal Projects\VRExpPluginExp\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\VRExpansionPlugin\Module.VRExpansionPlugin.gen.6_of_10.cpp.obj"
+"D:\Documents\Unreal Projects\VRExpPluginExp\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\VRExpansionPlugin\Module.VRExpansionPlugin.gen.7_of_10.cpp.obj"
+"D:\Documents\Unreal Projects\VRExpPluginExp\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\VRExpansionPlugin\Module.VRExpansionPlugin.gen.8_of_10.cpp.obj"
+"D:\Documents\Unreal Projects\VRExpPluginExp\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\VRExpansionPlugin\Module.VRExpansionPlugin.gen.9_of_10.cpp.obj"
+"D:\Documents\Unreal Projects\VRExpPluginExp\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\VRExpansionPlugin\Module.VRExpansionPlugin.gen.10_of_10.cpp.obj"
+"D:\Documents\Unreal Projects\VRExpPluginExp\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\VRExpansionPlugin\Default.rc2.res"
+/OUT:"D:\Documents\Unreal Projects\VRExpPluginExp\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\VRExpansionPlugin\UE4Editor-VRExpansionPlugin.lib"
+/INCLUDE:IMPLEMENT_MODULE_VRExpansionPlugin

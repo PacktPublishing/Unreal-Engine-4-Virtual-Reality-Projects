@@ -1,0 +1,416 @@
+D:\Documents\Unreal Projects\VRExpPluginExp\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4\Shipping\VRExpansionPlugin\Definitions.VRExpansionPlugin.h
+D:\Documents\Unreal Projects\VRExpPluginExp\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4\Inc\VRExpansionPlugin\GS_LerpToHand.gen.cpp
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\Documents\Unreal Projects\VRExpPluginExp\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin/Public/GripScripts/GS_LerpToHand.h
+d:\documents\unreal projects\vrexppluginexp\plugins\vrexpansionplugin\vrexpansionplugin\source\vrexpansionplugin\public\gripscripts\VRGripScriptBase.h
+D:\Documents\Unreal Projects\VRExpPluginExp\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\VRBPDatatypes.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Source\Runtime\Engine\Public\PhysXPublic.h
+c:\program files\unreal engine\ue_4.22\engine\source\runtime\engine\public\PhysXIncludes.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation\Px.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxSimpleTypes.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxPreprocessor.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\ciso646
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\iso646.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\PxPhysicsAPI.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxAllocatorCallback.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxAssert.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxBitAndData.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxBounds3.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxTransform.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxQuat.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxVec3.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxMath.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt\math.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxIntrinsics.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/windows/PxWindowsIntrinsics.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt\math.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxPlane.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxMat33.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxErrorCallback.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxErrors.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxFlags.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxFoundation.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxFoundationVersion.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxIO.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxMat44.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxVec4.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxMathUtils.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxStrideIterator.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxUnionCast.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxVec2.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\common/PxCoreUtilityTypes.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxMemory.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\common/PxPhysXCommonConfig.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\common/PxRenderBuffer.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\common/PxBase.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\common\PxSerialFramework.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\common\PxCollection.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\common/PxTypeInfo.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\common/PxTolerancesScale.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\common/PxStringTable.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\common/PxSerializer.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\common/PxMetaData.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\common\PxMetaDataFlags.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\common/PxPhysicsInsertionCallback.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Source\ThirdParty\PhysX3\PxShared\include\task/PxTask.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Source\ThirdParty\PhysX3\PxShared\include\task/PxTaskDefine.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Source\ThirdParty\PhysX3\PxShared\include\task/PxTaskManager.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Source\ThirdParty\PhysX3\PxShared\include\task/PxCpuDispatcher.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Source\ThirdParty\PhysX3\PxShared\include\task/PxGpuDispatcher.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Source\ThirdParty\PhysX3\PxShared\include\task/PxTask.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\gpu/PxGpu.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\PxPhysXConfig.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Source\ThirdParty\PhysX3\PxShared\include\cudamanager/PxCudaContextManager.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Source\ThirdParty\PhysX3\PxShared\include\cudamanager/PxCudaMemoryManager.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Source\ThirdParty\PhysX3\PxShared\include\cudamanager/PxGpuCopyDesc.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\geometry/PxBoxGeometry.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\geometry/PxGeometry.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\geometry/PxCapsuleGeometry.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\geometry/PxConvexMesh.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\geometry/PxConvexMeshGeometry.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\geometry/PxMeshScale.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\geometry/PxGeometryHelpers.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\geometry\PxSphereGeometry.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\geometry\PxPlaneGeometry.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\geometry\PxTriangleMeshGeometry.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\geometry\PxHeightFieldGeometry.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\geometry/PxGeometryQuery.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\PxQueryReport.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\geometry/PxHeightField.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\geometry/PxHeightFieldFlag.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\geometry/PxHeightFieldDesc.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\geometry/PxHeightFieldSample.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\geometry/PxMeshQuery.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\geometry/PxSimpleTriangleMesh.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\geometry/PxTriangle.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\geometry/PxTriangleMesh.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\PxActor.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\PxClient.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\PxAggregate.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\PxArticulation.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\PxArticulationJoint.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\PxArticulationLink.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\PxRigidBody.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\PxRigidActor.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\PxShape.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\PxForceMode.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\PxBatchQuery.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\PxBatchQueryDesc.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\PxFiltering.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\PxQueryFiltering.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\PxConstraint.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\PxConstraintDesc.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\PxContact.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\PxContactModifyCallback.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\PxDeletionListener.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\PxLockedData.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\PxMaterial.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\PxPhysics.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\cloth/PxClothTypes.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\cloth/PxClothFabric.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\PxPhysicsVersion.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\PxRigidDynamic.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\PxRigidStatic.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\PxScene.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\PxVisualizationParameter.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\PxSceneDesc.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\PxBroadPhase.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\PxSimulationStatistics.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\particles/PxParticleSystem.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\particles/PxParticleBase.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\particles/PxParticleBaseFlag.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\particles/PxParticleCreationData.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\particles/PxParticleReadData.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\particles\PxParticleFlag.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\particles/PxParticleFluid.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\particles/PxParticleFluidReadData.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\pvd/PxPvdSceneClient.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\PxSceneLock.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\PxSimulationEventCallback.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\PxSpatialIndex.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\PxVolumeCache.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\PxPruningStructure.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\characterkinematic/PxBoxController.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\characterkinematic/PxCharacter.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\characterkinematic/PxController.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\characterkinematic/PxExtended.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\characterkinematic/PxControllerObstacles.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\characterkinematic/PxCapsuleController.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\characterkinematic/PxControllerBehavior.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\characterkinematic/PxControllerManager.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\cloth/PxCloth.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\cloth/PxClothCollisionData.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\cloth/PxClothParticleData.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\cooking/Pxc.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\cooking/PxConvexMeshDesc.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\cooking/PxCooking.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\cooking/PxTriangleMeshDesc.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\cooking/PxMidphaseDesc.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\cooking/PxBVH33MidphaseDesc.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\cooking/PxBVH34MidphaseDesc.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\extensions/PxDefaultStreams.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\extensions/PxDistanceJoint.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\extensions/PxJoint.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\extensions/PxExtensionsAPI.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\extensions/PxDefaultAllocator.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\extensions/PxConstraintExt.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\extensions/PxFixedJoint.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\extensions/PxPrismaticJoint.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\extensions/PxJointLimit.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\extensions/PxRevoluteJoint.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\extensions/PxSphericalJoint.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\extensions/PxD6Joint.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\extensions/PxDefaultSimulationFilterShader.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\extensions/PxDefaultErrorCallback.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\extensions/PxRigidActorExt.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\extensions/PxRigidBodyExt.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\extensions/PxMassProperties.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\extensions/PxShapeExt.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\extensions/PxParticleExt.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\extensions/PxTriangleMeshExt.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\extensions/PxSerialization.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\extensions/PxDefaultCpuDispatcher.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\extensions/PxSmoothNormals.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\extensions/PxSimpleFactory.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\extensions/PxStringTableExt.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\extensions/PxClothFabricCooker.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\extensions\PxClothMeshDesc.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\extensions/PxBroadPhaseExt.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\extensions/PxClothMeshQuadifier.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\extensions/PxSceneQueryExt.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\extensions/PxConvexMeshExt.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\extensions/PxBinaryConverter.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\extensions/PxRepXSerializer.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\extensions/PxRepXSimpleType.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\vehicle/PxVehicleComponents.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\vehicle\PxVehicleSDK.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\vehicle/PxVehicleDrive.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\vehicle/PxVehicleWheels.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\vehicle/PxVehicleShaders.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\vehicle/PxVehicleDrive4W.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\vehicle/PxVehicleDriveTank.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\vehicle/PxVehicleTireFriction.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\vehicle/PxVehicleUpdate.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\vehicle/PxVehicleUtilControl.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\vehicle/PxVehicleDriveNW.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\vehicle/PxVehicleUtilSetup.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\vehicle/PxVehicleUtilTelemetry.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\vehicle/PxVehicleNoDrive.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Source\ThirdParty\PhysX3\PxShared\include\pvd/PxPvd.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxProfiler.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Source\ThirdParty\PhysX3\PxShared\include\pvd/PxPvdTransport.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\extensions\PxCollectionExt.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\PxImmediateMode.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\solver/PxSolverDefs.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\GeomUtils/GuContactPoint.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\collision/PxCollisionDefs.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\physx_3.4\include\GeomUtils/GuContactBuffer.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\Apex.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\apex_1.4\include\ApexUsingNamespace.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\apex_1.4\include\ApexDefs.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\PhysX3\PhysXSDKVersion.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\apex_1.4\include\ApexDesc.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\apex_1.4\include\ApexInterface.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\apex_1.4\include\RWLockable.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\apex_1.4\include\ApexSDK.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\apex_1.4\include\nvparameterized/NvSerializer.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Source\ThirdParty\PhysX3\PxShared\include\filebuf/PxFileBuf.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\apex_1.4\include\nvparameterized\NvSerializer.inl
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\apex_1.4\include\nvparameterized\NvParameterized.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\apex_1.4\include\nvparameterized\NvParameterized.inl
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\apex_1.4\include\nvparameterized/NvParameterizedMacroses.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\apex_1.4\include\nvparameterized\NvParameterized_types.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\apex_1.4\include\nvparameterized\NvParameterizedTraits.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\apex_1.4\include\Shape.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\apex_1.4\include\Actor.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\apex_1.4\include\Context.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\apex_1.4\include\ApexNameSpace.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\apex_1.4\include\PhysXObjectDesc.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\apex_1.4\include\RenderDataProvider.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\apex_1.4\include\Renderable.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\apex_1.4\include\AssetPreview.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\apex_1.4\include\Asset.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\apex_1.4\include\AssetPreviewScene.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\apex_1.4\include\RenderContext.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\apex_1.4\include\Scene.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\apex_1.4\include\RenderDebugInterface.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Source\ThirdParty\PhysX3\APEX_1.4\shared\general\RenderDebug\public\RenderDebugTyped.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\apex_1.4\shared\general\renderdebug\public\RenderDebug.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\apex_1.4\include\MirrorScene.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\apex_1.4\include\ApexSDKCachedData.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\apex_1.4\include\IProgressListener.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\apex_1.4\include\Module.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\apex_1.4\include\IosAsset.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\apex_1.4\include\RenderDataFormat.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\apex_1.4\include\RenderBufferData.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\apex_1.4\include\UserRenderResourceManager.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\apex_1.4\include\UserRenderVertexBufferDesc.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\apex_1.4\include\UserRenderInstanceBufferDesc.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\apex_1.4\include\UserRenderSpriteBufferDesc.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\apex_1.4\include\UserRenderIndexBufferDesc.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\apex_1.4\include\UserRenderBoneBufferDesc.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\apex_1.4\include\UserRenderResourceDesc.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\apex_1.4\include\UserRenderSurfaceBufferDesc.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\apex_1.4\include\UserRenderSurfaceBuffer.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\apex_1.4\include\UserRenderResource.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\apex_1.4\include\UserRenderVertexBuffer.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\apex_1.4\include\UserRenderInstanceBuffer.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\apex_1.4\include\UserRenderSpriteBuffer.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\apex_1.4\include\UserRenderIndexBuffer.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\apex_1.4\include\UserRenderBoneBuffer.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\apex_1.4\include\UserRenderer.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\apex_1.4\include\VertexFormat.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\apex_1.4\include\RenderMesh.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\apex_1.4\include\RenderMeshActorDesc.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\apex_1.4\include\RenderMeshActor.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\apex_1.4\include\RenderMeshAsset.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\apex_1.4\include\ResourceCallback.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\apex_1.4\include\ResourceProvider.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\destructible/ModuleDestructible.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\destructible/DestructibleAsset.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\apex_1.4\include\destructible\FractureToolsAPI.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\apex_1.4\include\destructible\ExplicitHierarchicalMesh.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\ConvexHullMethod.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\apex_1.4\include\destructible\FractureToolsStructs.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\destructible/DestructibleActor.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\clothing\ModuleClothing.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\clothing/ClothingAsset.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\clothing\ClothingActor.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\clothing\ClothingCollision.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\legacy\ModuleLegacy.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\nvparameterized\NvParamUtils.h
+c:\program files\unreal engine\ue_4.22\engine\source\thirdparty\physx3\apex_1.4\include\nvparameterized\NvParamUtils.inl
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Source\Runtime\Engine\Private\PhysicsEngine\PhysXSupport.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Source\Runtime\Engine\Public\Physics/PhysicsFiltering.h
+d:\documents\unreal projects\vrexppluginexp\plugins\vrexpansionplugin\vrexpansionplugin\intermediate\build\win64\ue4\inc\vrexpansionplugin\VRBPDatatypes.generated.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Source\Runtime\Engine\Public\Net/UnrealNetwork.h
+d:\documents\unreal projects\vrexppluginexp\plugins\vrexpansionplugin\vrexpansionplugin\intermediate\build\win64\ue4\inc\vrexpansionplugin\VRGripScriptBase.generated.h
+d:\documents\unreal projects\vrexppluginexp\plugins\vrexpansionplugin\vrexpansionplugin\intermediate\build\win64\ue4\inc\vrexpansionplugin\GS_LerpToHand.generated.h
+D:\Documents\Unreal Projects\VRExpPluginExp\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4\Inc\VRExpansionPlugin\GS_MeleeTools.gen.cpp
+D:\Documents\Unreal Projects\VRExpPluginExp\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin/Public/GripScripts/GS_MeleeTools.h
+D:\Documents\Unreal Projects\VRExpPluginExp\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\GripScripts/GS_Default.h
+d:\documents\unreal projects\vrexppluginexp\plugins\vrexpansionplugin\vrexpansionplugin\intermediate\build\win64\ue4\inc\vrexpansionplugin\GS_Default.generated.h
+d:\documents\unreal projects\vrexppluginexp\plugins\vrexpansionplugin\vrexpansionplugin\intermediate\build\win64\ue4\inc\vrexpansionplugin\GS_MeleeTools.generated.h
+D:\Documents\Unreal Projects\VRExpPluginExp\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4\Inc\VRExpansionPlugin\ParentRelativeAttachmentComponent.gen.cpp
+D:\Documents\Unreal Projects\VRExpPluginExp\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin/Public/ParentRelativeAttachmentComponent.h
+d:\documents\unreal projects\vrexppluginexp\plugins\vrexpansionplugin\vrexpansionplugin\source\vrexpansionplugin\public\VRExpansionFunctionLibrary.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Source\Runtime\HeadMountedDisplay\Public\IMotionController.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Source\Runtime\Engine\Classes\Components/SplineComponent.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\SplineComponent.generated.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Source\Runtime\Engine\Classes\Components/SplineMeshComponent.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\SplineMeshComponent.generated.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Source\Runtime\HeadMountedDisplay\Public\HeadMountedDisplayFunctionLibrary.h
+c:\program files\unreal engine\ue_4.22\engine\source\runtime\headmounteddisplay\public\HeadMountedDisplayTypes.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Intermediate\Build\Win64\UE4\Inc\HeadMountedDisplay\HeadMountedDisplayTypes.generated.h
+c:\program files\unreal engine\ue_4.22\engine\source\runtime\headmounteddisplay\public\IIdentifiableXRDevice.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Intermediate\Build\Win64\UE4\Inc\HeadMountedDisplay\IIdentifiableXRDevice.generated.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Intermediate\Build\Win64\UE4\Inc\HeadMountedDisplay\HeadMountedDisplayFunctionLibrary.generated.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Source\Runtime\HeadMountedDisplay\Public\IHeadMountedDisplay.h
+c:\program files\unreal engine\ue_4.22\engine\source\runtime\headmounteddisplay\public\LateUpdateManager.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Source\Runtime\GameplayTags\Classes\GameplayTagContainer.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Intermediate\Build\Win64\UE4\Inc\GameplayTags\GameplayTagContainer.generated.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Source\Runtime\HeadMountedDisplay\Public\XRMotionControllerBase.h
+d:\documents\unreal projects\vrexppluginexp\plugins\vrexpansionplugin\vrexpansionplugin\intermediate\build\win64\ue4\inc\vrexpansionplugin\VRExpansionFunctionLibrary.generated.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Source\Runtime\HeadMountedDisplay\Public\IXRTrackingSystem.h
+c:\program files\unreal engine\ue_4.22\engine\source\runtime\headmounteddisplay\public\IXRInput.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Source\Runtime\Engine\Classes\Components/ShapeComponent.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\ShapeComponent.generated.h
+d:\documents\unreal projects\vrexppluginexp\plugins\vrexpansionplugin\vrexpansionplugin\source\vrexpansionplugin\public\VRTrackedParentInterface.h
+d:\documents\unreal projects\vrexppluginexp\plugins\vrexpansionplugin\vrexpansionplugin\intermediate\build\win64\ue4\inc\vrexpansionplugin\VRTrackedParentInterface.generated.h
+d:\documents\unreal projects\vrexppluginexp\plugins\vrexpansionplugin\vrexpansionplugin\intermediate\build\win64\ue4\inc\vrexpansionplugin\ParentRelativeAttachmentComponent.generated.h
+D:\Documents\Unreal Projects\VRExpPluginExp\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4\Inc\VRExpansionPlugin\ReplicatedVRCameraComponent.gen.cpp
+D:\Documents\Unreal Projects\VRExpPluginExp\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin/Public/ReplicatedVRCameraComponent.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Source\Runtime\Engine\Classes\Camera/CameraComponent.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\CameraComponent.generated.h
+d:\documents\unreal projects\vrexppluginexp\plugins\vrexpansionplugin\vrexpansionplugin\intermediate\build\win64\ue4\inc\vrexpansionplugin\ReplicatedVRCameraComponent.generated.h
+D:\Documents\Unreal Projects\VRExpPluginExp\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4\Inc\VRExpansionPlugin\VRAIController.gen.cpp
+D:\Documents\Unreal Projects\VRExpPluginExp\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin/Public/VRAIController.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Source\Runtime\AIModule\Classes\AIController.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Source\Runtime\NavigationSystem\Public\NavFilters/NavigationQueryFilter.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Source\Runtime\NavigationSystem\Public\NavAreas/NavArea.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Source\Runtime\Engine\Classes\AI/Navigation/NavAreaBase.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\NavAreaBase.generated.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Intermediate\Build\Win64\UE4\Inc\NavigationSystem\NavArea.generated.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Intermediate\Build\Win64\UE4\Inc\NavigationSystem\NavigationQueryFilter.generated.h
+c:\program files\unreal engine\ue_4.22\engine\source\runtime\aimodule\classes\AITypes.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Source\Runtime\NavigationSystem\Public\NavigationSystemTypes.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Source\Runtime\Engine\Classes\AI/NavigationSystemConfig.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\NavigationSystemConfig.generated.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Intermediate\Build\Win64\UE4\Inc\AIModule\AITypes.generated.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Source\Runtime\GameplayTasks\Classes\GameplayTaskOwnerInterface.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Source\Runtime\GameplayTasks\Public\GameplayTaskTypes.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Intermediate\Build\Win64\UE4\Inc\GameplayTasks\GameplayTaskOwnerInterface.generated.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Source\Runtime\GameplayTasks\Classes\GameplayTask.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/WeakInterfacePtr.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Intermediate\Build\Win64\UE4\Inc\GameplayTasks\GameplayTask.generated.h
+c:\program files\unreal engine\ue_4.22\engine\source\runtime\aimodule\classes\Navigation/PathFollowingComponent.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Source\Runtime\NavigationSystem\Public\NavigationData.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Source\Runtime\Engine\Classes\AI/Navigation/NavigationDataInterface.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\NavigationDataInterface.generated.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Intermediate\Build\Win64\UE4\Inc\NavigationSystem\NavigationData.generated.h
+c:\program files\unreal engine\ue_4.22\engine\source\runtime\aimodule\classes\AIResourceInterface.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Intermediate\Build\Win64\UE4\Inc\AIModule\AIResourceInterface.generated.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/NavMovementComponent.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Source\Runtime\Engine\Classes\AI/Navigation/PathFollowingAgentInterface.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\PathFollowingAgentInterface.generated.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/MovementComponent.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\MovementComponent.generated.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\NavMovementComponent.generated.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Intermediate\Build\Win64\UE4\Inc\AIModule\PathFollowingComponent.generated.h
+c:\program files\unreal engine\ue_4.22\engine\source\runtime\aimodule\classes\Perception/AIPerceptionListenerInterface.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Intermediate\Build\Win64\UE4\Inc\AIModule\AIPerceptionListenerInterface.generated.h
+c:\program files\unreal engine\ue_4.22\engine\source\runtime\aimodule\classes\GenericTeamAgentInterface.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Intermediate\Build\Win64\UE4\Inc\AIModule\GenericTeamAgentInterface.generated.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Source\Runtime\Engine\Public\VisualLogger/VisualLoggerDebugSnapshotInterface.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\VisualLoggerDebugSnapshotInterface.generated.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Intermediate\Build\Win64\UE4\Inc\AIModule\AIController.generated.h
+d:\documents\unreal projects\vrexppluginexp\plugins\vrexpansionplugin\vrexpansionplugin\source\vrexpansionplugin\public\VRBaseCharacter.h
+d:\documents\unreal projects\vrexppluginexp\plugins\vrexpansionplugin\vrexpansionplugin\source\vrexpansionplugin\public\VRBaseCharacterMovementComponent.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\RootMotionSource.generated.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\Character.generated.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/CharacterMovementComponent.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Source\Runtime\Engine\Classes\AI/Navigation/NavigationAvoidanceTypes.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\NavigationAvoidanceTypes.generated.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Source\Runtime\Engine\Public\AI/RVOAvoidanceInterface.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\RVOAvoidanceInterface.generated.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/PawnMovementComponent.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\PawnMovementComponent.generated.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Source\Runtime\Engine\Classes\Interfaces/NetworkPredictionInterface.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\NetworkPredictionInterface.generated.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\CharacterMovementComponent.generated.h
+d:\documents\unreal projects\vrexppluginexp\plugins\vrexpansionplugin\vrexpansionplugin\intermediate\build\win64\ue4\inc\vrexpansionplugin\VRBaseCharacterMovementComponent.generated.h
+d:\documents\unreal projects\vrexppluginexp\plugins\vrexpansionplugin\vrexpansionplugin\source\vrexpansionplugin\public\GripMotionControllerComponent.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Source\Runtime\Engine\Public\SceneViewExtension.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Source\Runtime\HeadMountedDisplay\Public\MotionControllerComponent.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Intermediate\Build\Win64\UE4\Inc\HeadMountedDisplay\MotionControllerComponent.generated.h
+d:\documents\unreal projects\vrexppluginexp\plugins\vrexpansionplugin\vrexpansionplugin\source\vrexpansionplugin\public\VRGripInterface.h
+d:\documents\unreal projects\vrexppluginexp\plugins\vrexpansionplugin\vrexpansionplugin\intermediate\build\win64\ue4\inc\vrexpansionplugin\VRGripInterface.generated.h
+d:\documents\unreal projects\vrexppluginexp\plugins\vrexpansionplugin\vrexpansionplugin\source\vrexpansionplugin\public\VRGlobalSettings.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/PlayerInput.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Source\Runtime\Engine\Public\GestureRecognizer.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Source\Runtime\Engine\Public\KeyState.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\PlayerInput.generated.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/InputSettings.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\InputSettings.generated.h
+d:\documents\unreal projects\vrexppluginexp\plugins\vrexpansionplugin\vrexpansionplugin\source\vrexpansionplugin\public\GripScripts/GS_GunTools.h
+d:\documents\unreal projects\vrexppluginexp\plugins\vrexpansionplugin\vrexpansionplugin\intermediate\build\win64\ue4\inc\vrexpansionplugin\GS_GunTools.generated.h
+d:\documents\unreal projects\vrexppluginexp\plugins\vrexpansionplugin\vrexpansionplugin\intermediate\build\win64\ue4\inc\vrexpansionplugin\VRGlobalSettings.generated.h
+d:\documents\unreal projects\vrexppluginexp\plugins\vrexpansionplugin\vrexpansionplugin\intermediate\build\win64\ue4\inc\vrexpansionplugin\GripMotionControllerComponent.generated.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Source\Runtime\Engine\Classes\Components/CapsuleComponent.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\CapsuleComponent.generated.h
+d:\documents\unreal projects\vrexppluginexp\plugins\vrexpansionplugin\vrexpansionplugin\intermediate\build\win64\ue4\inc\vrexpansionplugin\VRBaseCharacter.generated.h
+d:\documents\unreal projects\vrexppluginexp\plugins\vrexpansionplugin\vrexpansionplugin\intermediate\build\win64\ue4\inc\vrexpansionplugin\VRAIController.generated.h
+D:\Documents\Unreal Projects\VRExpPluginExp\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4\Inc\VRExpansionPlugin\VRAIPerceptionOverrides.gen.cpp
+D:\Documents\Unreal Projects\VRExpPluginExp\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin/Public/Misc/VRAIPerceptionOverrides.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Source\Runtime\AIModule/Classes/Perception/AISense.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Source\Runtime\AIModule\Classes\Perception/AIPerceptionTypes.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Intermediate\Build\Win64\UE4\Inc\AIModule\AIPerceptionTypes.generated.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Intermediate\Build\Win64\UE4\Inc\AIModule\AISense.generated.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Source\Runtime\AIModule/Classes/Perception/AISenseConfig.h
+C:\Program Files\Unreal Engine\UE_4.22\Engine\Intermediate\Build\Win64\UE4\Inc\AIModule\AISenseConfig.generated.h
+d:\documents\unreal projects\vrexppluginexp\plugins\vrexpansionplugin\vrexpansionplugin\intermediate\build\win64\ue4\inc\vrexpansionplugin\VRAIPerceptionOverrides.generated.h
+D:\Documents\Unreal Projects\VRExpPluginExp\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4\Inc\VRExpansionPlugin\VRBaseCharacter.gen.cpp
+D:\Documents\Unreal Projects\VRExpPluginExp\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4\Inc\VRExpansionPlugin\VRBaseCharacterMovementComponent.gen.cpp
