@@ -41,12 +41,7 @@ With the following software and hardware list you can run all code files present
 | 1-10 | Unreal Engine 4 | Windows 7 or 10, Mac OS Yosemite or greater |
 | 1-10 | Microsoft Visual Studio Code (or equivalent text editor) | Windows 7 or 10, Mac OS Yosemite or greater |
 | 1-10 | Microsoft Visual Studio Community 2017 (Optional) | Windows 10 version 1507 or higher, Mac OS Sierra 10.12 or greater |
-|  |  | Windows, Mac OS X, and Linux (Any) |
-|  |  | Windows, Mac OS X, and Linux (Any) |
-|  |  | Windows, Mac OS X, and Linux (Any) |
-|  |  | Windows, Mac OS X, and Linux (Any) |
-|  |  | Windows, Mac OS X, and Linux (Any) |
-|  |  | Windows, Mac OS X, and Linux (Any) |
+
 
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://www.packtpub.com/sites/default/files/downloads/9781789132878_ColorImages.pdf).
 
