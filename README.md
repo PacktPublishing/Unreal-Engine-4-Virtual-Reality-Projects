@@ -8,7 +8,7 @@ This is the code repository for [](), published by Packt.
 **Build immersive, real-world VR applications using UE4, C++, and Unreal Blueprints**
 
 ## What is this book about?
-0
+Unreal Engine 4 (UE4) is a powerful tool for developing VR games and applications. With its visual scripting language, Blueprint, and built-in support for all major VR headsets, it's a perfect tool for designers, artists, and engineers to realize their visions in VR. 
 
 This book covers the following exciting features:
 
